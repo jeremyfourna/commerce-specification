@@ -16,6 +16,17 @@ A **product** can be part of multiple [meta products].
 | Product | N - N | [Meta Product] |
 | Product | 1 - N | [Localised Product] |
 
+## Example
+
+* Chocolate bar 70% cacao with azelnuts in 100 grams package
+* Chocolate bar 70% cacao with azelnuts in 500 grams package
+* Chocolate bar 70% cacao with salt in 100 grams package
+* Chocolate bar 70% cacao with salt in 500 grams package
+* Chocolate bar 85% cacao with azelnuts in 100 grams package
+* Chocolate bar 85% cacao without extra in 500 grams package
+* Chocolqte bar 90% cacao without extra in 100 grams package
+* Chocolqte bar 90% cacao without extra in 500 grams package
+
 
 
 [Bundle]: ../bundle.md

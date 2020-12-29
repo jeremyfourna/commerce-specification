@@ -2,6 +2,10 @@
 
 A **bundle** is a group of [product] that are sold together. You cannot buy a subset of those products.
 
+## Bundle types
+
+TODO Define Spryker type and basic bundle type
+
 
 ## Relationships with other entities
 
