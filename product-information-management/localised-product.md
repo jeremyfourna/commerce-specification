@@ -1,6 +1,6 @@
 # Localised Product
 
-A **localised product** is product translated in a given [locale]. 
+A **localised product** is a product translated in a given [locale]. 
 
 
 ## Relationships with other entities
