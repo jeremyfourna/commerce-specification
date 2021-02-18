@@ -1,11 +1,11 @@
-# Customer
-
+# Currency
 
 ## Relationships with other entities
 
 | Entity | Relationship | Entity |
 | --- |:--------:| --- |
-| Customer | 1 - N | [Cart] |
+| Currency | 1 - N | [Price] |
 
 
-[Cart]: ../cart-checkout-management/cart.md
+
+[Price]: ../price-management/price.md
