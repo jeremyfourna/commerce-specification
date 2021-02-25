@@ -8,6 +8,7 @@ A **product** contains a mix of _cold_ or _hot_ data. _Cold_ data mean here, inf
 
 A **product** can be part of multiple [meta products].
 
+
 ## Relationships with other entities
 
 | Entity | Relationship | Entity |
@@ -15,6 +16,7 @@ A **product** can be part of multiple [meta products].
 | Product | N - N | [Bundle] |
 | Product | N - N | [Meta Product] |
 | Product | 1 - N | [Localised Product] |
+
 
 ## Example
 

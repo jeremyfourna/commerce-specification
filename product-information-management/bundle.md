@@ -1,7 +1,8 @@
 # Bundle
 
-A **bundle** is a group of [products] that are sold together. You cannot buy a subset of those products.
-The **bundle** is then a product itself.
+A **bundle** is a [product] that contains a group of [products] that are sold together.
+
+You can see the **bundle** as a [product] type.
 
 ## Bundle types
 
@@ -20,7 +21,7 @@ The main difference here compared to the _Single product as bundle_ is that here
 
 ## Bundle price
 
-The [price] of a **bundle** can be defined for the whole **bundle** or can be the sum of the products contained inside the **bundle** (with or without a discount to make more interesting).
+The [price] of a **bundle** can be defined for the whole **bundle** or can be the sum of the price of the products contained inside the **bundle** (with or without a discount to make it more interesting).
 
 If the [price] of the **bundle** is the sum of the products contained inside it, it can be calculated dynamically whenever the price of any of the products change.
 
@@ -31,6 +32,7 @@ If the [price] of the **bundle** is the sum of the products contained inside it,
 | --- |:--------:| --- |
 | Bundle | N - N | [Product] |
 | Bundle | 1 - N | [Localised Product] |
+
 
 
 [Localised Product]: ../localised-product.md
