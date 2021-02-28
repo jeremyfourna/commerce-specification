@@ -1,14 +1,14 @@
-# Localised Product
+# Localized Product
 
-A **localised product** is a product translated in a given [locale]. 
+A **localized product** is a product translated in a given [locale]. 
 
 
 ## Relationships with other entities
 
 | Entity | Relationship | Entity |
 | --- |:--------:| --- |
-| Localised Product | N - 1 | [Product] |
-| Localised Product | N - 1 | [Locale] |
+| Localized Product | N - 1 | [Product] |
+| Localized Product | N - 1 | [Locale] |
 
 
 

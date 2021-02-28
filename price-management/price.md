@@ -1,6 +1,6 @@
 # Price
 
-A **price** is always defined for a sellable [product].
+A **price** is always defined for a sell-able [product].
 
 A **price** can be positive (the customer will pay this amount) or negative (You will refund the customer).
 

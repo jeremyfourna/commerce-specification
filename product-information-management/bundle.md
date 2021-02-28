@@ -31,11 +31,11 @@ If the [price] of the **bundle** is the sum of the products contained inside it,
 | Entity | Relationship | Entity |
 | --- |:--------:| --- |
 | Bundle | N - N | [Product] |
-| Bundle | 1 - N | [Localised Product] |
+| Bundle | 1 - N | [Localized Product] |
 
 
 
-[Localised Product]: ../localised-product.md
+[Localized Product]: ../localised-product.md
 [price]: ../price-management/price.md
 [product]: ../product-information-management/product.md
 [products]: ../product-information-management/product.md
