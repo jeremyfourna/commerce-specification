@@ -15,7 +15,7 @@ A **product** can be part of multiple [meta products].
 | --- |:--------:| --- |
 | Product | N - N | [Bundle] |
 | Product | N - N | [Meta Product] |
-| Product | 1 - N | [Localized Product] |
+| Product | 1 - N | [Localization] |
 
 
 ## Example
@@ -32,6 +32,6 @@ A **product** can be part of multiple [meta products].
 
 
 [Bundle]: ../bundle.md
-[Localized Product]: ../localized-product.md
+[Localization]: ../localization.md
 [meta products]: ../meta-product.md
 [Meta Product]: ../meta-product.md

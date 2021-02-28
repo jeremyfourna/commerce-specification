@@ -17,10 +17,10 @@ You can use a fall-back logic between locales when some content are missing. The
 
 | Entity | Relationship | Entity |
 | --- |:--------:| --- |
-| Locale | 1 - N | [Localized Product] |
+| Locale | 1 - N | [Localization] |
 | Locale | N - 1 | [Fall-back Locale] |
 
 
 
-[Localized Product]: ../product-information-management/localized-product.md
+[Localization]: ../product-information-management/localization.md
 [Fall-back Locale]: #fall-back-locale

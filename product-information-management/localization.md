@@ -1,4 +1,4 @@
-# Localized Product
+# Localization
 
 A **localized product** is a product translated in a given [locale]. It a translation of the [product] attributes and can also contain extra content specific to the locale.
 
@@ -7,8 +7,8 @@ A **localized product** is a product translated in a given [locale]. It a transl
 
 | Entity | Relationship | Entity |
 | --- |:--------:| --- |
-| Localized Product | N - 1 | [Product] |
-| Localized Product | N - 1 | [Locale] |
+| Localization | N - 1 | [Product] |
+| Localization | N - 1 | [Locale] |
 
 
 
