@@ -35,7 +35,7 @@ If the [price] of the **bundle** is the sum of the products contained inside it,
 
 
 
-[Localized Product]: ../localised-product.md
+[Localized Product]: ../localized-product.md
 [price]: ../price-management/price.md
 [product]: ../product-information-management/product.md
 [products]: ../product-information-management/product.md

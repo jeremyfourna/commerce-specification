@@ -32,6 +32,6 @@ A **product** can be part of multiple [meta products].
 
 
 [Bundle]: ../bundle.md
-[Localized Product]: ../localised-product.md
+[Localized Product]: ../localized-product.md
 [meta products]: ../meta-product.md
 [Meta Product]: ../meta-product.md

@@ -22,5 +22,5 @@ You can use a fall-back logic between locales when some content are missing. The
 
 
 
-[Localized Product]: ../product-information-management/localised-product.md
-[Fall-back Locale]: ../shared/locale.md#fall-back-locale
+[Localized Product]: ../product-information-management/localized-product.md
+[Fall-back Locale]: #fall-back-locale
